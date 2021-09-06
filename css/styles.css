@@ -4,7 +4,7 @@ body{
 
 hr{
   border-style: none;
-  border-color: #261C2C;
+  border-color: #FF2626;
   border-top-style: dotted;
   border-width:7px;
   width: 1.5%;
@@ -19,6 +19,9 @@ h1{
 a{
   color: #343239;
 }
+h3{
+  color: #343239;
+}
 li{
   color: #343239;
 }
@@ -27,4 +30,10 @@ h2{
 }
 td{
   color: #343239;
+}
+a:hover{
+  color: #FF2626;
+}
+li:hover{
+  color: #FF2626;
 }
